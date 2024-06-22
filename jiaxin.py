@@ -141,7 +141,7 @@ add_sidebar = st.sidebar.selectbox(
 ## Total Picture 
 if add_sidebar == ' ':
 
-    # st.title('_早上好老婆_ 🌹')
+    st.title('_老婆好_ 🌹')
     # st.header('睡得好吗？')
     st.subheader('一起玩游戏吧 👻', divider='grey')
     # st.title('_Streamlit_ is :blue[cool] :sunglasses:')
