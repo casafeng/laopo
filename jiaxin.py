@@ -348,7 +348,7 @@ elif add_sidebar == '秘密':
     time.sleep(1)
     # You can use a column just like st.sidebar:
     if st.button('Clicca'):
-        st.write('你是傻逼 🐸')
+        st.write('嫁给我吗 💍')
 
 
 #    st.title('Work in Progress 🚧')
